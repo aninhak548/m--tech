@@ -1,0 +1,41 @@
+body {
+    color: rgb(46, 11, 79);
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center{
+   text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.logo1 {
+    height: auto;
+    width: 100px;
+    justify-content: center;
+}
+ 
+.footer{
+    background-color: darkslategray;
+    color: azure;
+    padding: 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+.rodape{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30pxc;
+}
+
+
+
+    
+
